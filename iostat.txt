@@ -1,0 +1,8 @@
+Linux 4.3.3.201512162141-1-grsec (arch-laptop) 	12/26/2015 	_x86_64_	(4 CPU)
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           2.53    0.01    6.83   24.26    0.00   66.37
+
+Device:            tps    kB_read/s    kB_wrtn/s    kB_read    kB_wrtn
+sda            9564.27     96965.71     71463.89  906260874  667915808
+
